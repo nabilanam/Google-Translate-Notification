@@ -1,0 +1,6 @@
+{
+  "source":"en",
+  "target":"bn",
+  "trigger_key":"ctrl+q",
+  "release_key":"ctrl+alt+q"
+}
